@@ -87,13 +87,13 @@ getgenv().TARGET_BRAINROTS = {
     ["Money Money Puggy"] = true,
     ["Los Hotspotsitos"] = true,
     ["Los Jolly Combinasionas"] = true,
-    ["Los Spooky Combinasionas"] = true,
+    ["Boppin Bunny"] = true,
     ["Los Planitos"] = true,
     ["Las Sis"] = true,
     ["Tacorita Bicicleta"] = true,
     ["Los Sweethearts"] = true,
     ["Guest 666"] = true,
-    ["Donkeyturbo Express"] = true,
+    ["Fragola La La La"] = true,
     ["Unclito Samito"] = true
 }
 task.spawn(function()
